@@ -1,0 +1,1088 @@
+[22-Aug-2016 17:03:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:03:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:04:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:04:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:05:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:05:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:09:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:09:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:10:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:10:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:10:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:10:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:10:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:10:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:10:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:10:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:11:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:11:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:11:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:11:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:11:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:13:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:13:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:13:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:13:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:15:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:15:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:16:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:16:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:16:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:16:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:16:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:16:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:17:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:17:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:18:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:18:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:19:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:19:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:19:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:19:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:20:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:20:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:21:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:21:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:22:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:22:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:22:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:22:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:23:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:23:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:23:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:23:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:25:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:25:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:26:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:26:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:27:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:27:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:29:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:29:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:30:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:30:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:32:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:32:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:32:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:32:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:33:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:33:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:34:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:34:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:35:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:35:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:35:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:36:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:36:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:36:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:36:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/borrar_cita.php on line 7
+[22-Aug-2016 17:36:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:36:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:37:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:37:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:37:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:37:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:37:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:38:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:38:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:39:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 17:39:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:39:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:39:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:40:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:40:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:41:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:41:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:41:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:41:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/borrar_cita.php on line 7
+[22-Aug-2016 17:41:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:41:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:43:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:43:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:43:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/borrar_cita.php on line 7
+[22-Aug-2016 17:43:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:43:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:43:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:43:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:43:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/borrar_cita.php on line 7
+[22-Aug-2016 17:43:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:43:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:43:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:43:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:43:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/borrar_cita.php on line 7
+[22-Aug-2016 17:43:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:43:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:43:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:43:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:44:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 17:44:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:45:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 17:45:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:46:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 17:46:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:47:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[22-Aug-2016 17:47:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:47:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 17:47:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:47:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 17:47:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:48:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 17:48:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:49:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 17:49:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:50:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 17:50:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:55:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 17:55:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:56:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 17:56:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 17:56:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 17:56:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:19:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 18:19:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:19:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[22-Aug-2016 18:19:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:19:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[22-Aug-2016 18:19:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:19:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 18:19:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:19:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 18:19:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:19:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[22-Aug-2016 18:19:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:19:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 18:19:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:19:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 18:19:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:20:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 18:20:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:20:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:20:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 18:20:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:20:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 18:20:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:20:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 18:20:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:20:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:20:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 18:20:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:20:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 18:20:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:24:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 18:24:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:24:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 18:24:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:25:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 18:25:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:25:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[22-Aug-2016 18:25:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:26:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[22-Aug-2016 18:26:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:27:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 18:27:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:27:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 18:27:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:27:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:27:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 18:27:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:27:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 18:27:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:27:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:28:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:34:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 18:34:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:35:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:35:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:35:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 18:35:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:36:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 18:36:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:39:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:39:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 18:39:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:39:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:42:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 18:42:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:42:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/borrar_cita.php on line 7
+[22-Aug-2016 18:42:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 18:42:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:42:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:43:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 18:43:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:47:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 18:47:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:47:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:47:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 18:47:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 18:59:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[22-Aug-2016 18:59:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 19:02:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[22-Aug-2016 19:02:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 19:07:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 19:07:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 19:07:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/borrar_enfermera.php on line 7
+[22-Aug-2016 19:07:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 19:07:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 19:07:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/borrar_enfermera.php on line 7
+[22-Aug-2016 19:07:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[22-Aug-2016 19:07:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 19:07:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[22-Aug-2016 19:07:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 19:07:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 19:07:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 19:07:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 19:07:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 19:07:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 19:17:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[22-Aug-2016 19:17:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 19:35:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 19:35:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 19:35:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 19:35:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[22-Aug-2016 19:36:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[22-Aug-2016 19:36:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 15:15:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 15:15:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 15:16:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[23-Aug-2016 15:16:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 15:20:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[23-Aug-2016 15:20:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 15:37:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 15:37:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 15:52:20 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 15:52:52 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 15:53:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 15:53:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 15:56:01 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 15:56:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 15:56:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 15:58:36 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:07:04 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:07:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:07:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:07:11 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:07:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:07:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:07:28 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:07:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:07:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:07:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:08:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:08:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:08:31 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:08:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:08:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:12:05 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:12:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:12:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:13:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:13:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:13:51 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:14:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:14:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:14:26 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:14:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:14:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:15:47 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:15:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:15:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:16:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:16:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:16:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:17:15 UTC] PHP Parse error:  syntax error, unexpected '$query_w' (T_VARIABLE) in /home/asist2016/public_html/dash/crear_cita.php on line 27
+[23-Aug-2016 16:17:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:17:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:17:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:18:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:18:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:18:22 UTC] PHP Parse error:  syntax error, unexpected '$query_w' (T_VARIABLE) in /home/asist2016/public_html/dash/crear_cita.php on line 27
+[23-Aug-2016 16:18:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:18:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:18:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:18:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:18:55 UTC] PHP Parse error:  syntax error, unexpected '$query_w' (T_VARIABLE) in /home/asist2016/public_html/dash/crear_cita.php on line 27
+[23-Aug-2016 16:19:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:19:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:19:48 UTC] PHP Parse error:  syntax error, unexpected '$query_w' (T_VARIABLE) in /home/asist2016/public_html/dash/crear_cita.php on line 27
+[23-Aug-2016 16:20:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:20:24 UTC] PHP Notice:  Undefined index: cliente in /home/asist2016/public_html/dash/crear_cita.php on line 8
+[23-Aug-2016 16:20:24 UTC] PHP Notice:  Undefined index: enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 9
+[23-Aug-2016 16:20:24 UTC] PHP Notice:  Undefined index: fecha in /home/asist2016/public_html/dash/crear_cita.php on line 10
+[23-Aug-2016 16:20:24 UTC] PHP Notice:  Undefined index: hora in /home/asist2016/public_html/dash/crear_cita.php on line 11
+[23-Aug-2016 16:20:24 UTC] PHP Notice:  Undefined index: hora_final in /home/asist2016/public_html/dash/crear_cita.php on line 12
+[23-Aug-2016 16:20:24 UTC] PHP Notice:  Undefined variable: result_e in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:20:24 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:20:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:20:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:20:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:20:41 UTC] PHP Notice:  Undefined variable: result_e in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:20:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:22:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:22:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:22:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:22:11 UTC] PHP Notice:  Undefined variable: result_e in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:22:11 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:22:11 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 50
+[23-Aug-2016 16:22:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:22:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:23:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:23:03 UTC] PHP Notice:  Undefined variable: result_e in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:23:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:23:03 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 51
+[23-Aug-2016 16:23:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:23:08 UTC] PHP Notice:  Undefined variable: result_e in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:23:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:23:08 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 51
+[23-Aug-2016 16:25:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:25:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:25:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:25:18 UTC] PHP Notice:  Undefined variable: result_e in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:25:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:25:18 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 25
+[23-Aug-2016 16:25:18 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 52
+[23-Aug-2016 16:25:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:25:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:25:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:25:54 UTC] PHP Notice:  Undefined variable: result_e in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:25:54 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:25:54 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 25
+[23-Aug-2016 16:25:54 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 52
+[23-Aug-2016 16:26:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:26:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:26:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:26:52 UTC] PHP Notice:  Undefined variable: result_e in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:26:52 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:26:52 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 25
+[23-Aug-2016 16:26:52 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 52
+[23-Aug-2016 16:26:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:26:58 UTC] PHP Notice:  Undefined variable: result_e in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:26:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:26:58 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 25
+[23-Aug-2016 16:26:58 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 52
+[23-Aug-2016 16:30:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:30:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:30:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:30:22 UTC] PHP Notice:  Undefined variable: result_e in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:30:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:30:22 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 52
+[23-Aug-2016 16:32:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:32:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:32:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:32:27 UTC] PHP Notice:  Undefined variable: result_e in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:32:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:32:27 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 51
+[23-Aug-2016 16:34:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:34:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:34:38 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/asist2016/public_html/dash/crear_cita.php on line 23
+[23-Aug-2016 16:34:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:34:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:34:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:34:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:34:55 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/asist2016/public_html/dash/crear_cita.php on line 23
+[23-Aug-2016 16:35:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:35:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:35:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:35:08 UTC] PHP Notice:  Undefined variable: result_e in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:35:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:35:08 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 51
+[23-Aug-2016 16:36:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:36:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:36:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:36:56 UTC] PHP Notice:  Undefined variable: result_e in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:36:56 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:36:56 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 51
+[23-Aug-2016 16:38:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:38:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:38:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:38:18 UTC] PHP Notice:  Undefined variable: result_e in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:38:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:38:18 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 51
+[23-Aug-2016 16:40:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:40:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:40:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:40:05 UTC] PHP Notice:  Undefined variable: result_e in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:40:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:40:05 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 51
+[23-Aug-2016 16:41:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:41:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:41:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:41:09 UTC] PHP Notice:  Undefined variable: result_e in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:41:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:41:09 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 51
+[23-Aug-2016 16:42:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:42:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:42:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:42:26 UTC] PHP Notice:  Undefined variable: result_e in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:42:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 16:42:26 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 51
+[23-Aug-2016 16:42:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:42:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:43:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:43:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:43:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:43:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:44:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:44:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:44:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:45:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:45:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:45:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:45:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:45:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:45:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:46:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/asist2016/public_html/dash/crear_cita.php on line 51
+[23-Aug-2016 16:46:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/asist2016/public_html/dash/crear_cita.php on line 51
+[23-Aug-2016 16:46:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:46:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:46:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:47:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:47:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:47:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/borrar_cita.php on line 7
+[23-Aug-2016 16:47:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:47:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:47:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[23-Aug-2016 16:47:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:47:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:47:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:48:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[23-Aug-2016 16:48:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:48:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:48:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:49:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:49:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:52:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[23-Aug-2016 16:52:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:53:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:53:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:53:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:55:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:55:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:56:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:56:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:56:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:57:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[23-Aug-2016 16:57:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:57:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:57:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[23-Aug-2016 16:57:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:57:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:57:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:57:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[23-Aug-2016 16:57:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:57:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:57:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:57:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:57:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[23-Aug-2016 16:57:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:57:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:57:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:58:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:58:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:58:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:58:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[23-Aug-2016 16:58:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:58:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/borrar_enfermera.php on line 7
+[23-Aug-2016 16:58:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[23-Aug-2016 16:58:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:58:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:58:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:59:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:59:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[23-Aug-2016 16:59:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:59:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:59:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:59:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 16:59:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 16:59:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:00:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:00:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:01:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[23-Aug-2016 17:01:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:01:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[23-Aug-2016 17:01:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:01:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:01:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:01:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:01:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:02:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:02:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:02:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:02:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:02:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:02:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:02:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:02:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:02:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:02:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:03:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:03:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:04:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:04:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:04:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:04:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:04:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:04:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:04:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:04:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:04:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:05:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:05:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:05:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:05:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:05:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:05:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:05:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:06:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:06:17 UTC] PHP Notice:  Undefined variable: result_e in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 17:06:17 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/crear_cita.php on line 22
+[23-Aug-2016 17:06:17 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 51
+[23-Aug-2016 17:06:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:06:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:06:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:06:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:06:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:06:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:07:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:08:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:08:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:08:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:08:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:08:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:08:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:08:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:08:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:09:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:09:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:09:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:09:42 UTC] PHP Notice:  Undefined variable: email_enf in /home/asist2016/public_html/dash/crear_cita.php on line 44
+[23-Aug-2016 17:09:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:09:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:14:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:14:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:14:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:14:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:14:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:15:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:15:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:15:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:15:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:15:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:15:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:15:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:17:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:17:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:17:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:26:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[23-Aug-2016 17:26:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:26:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[23-Aug-2016 17:26:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:26:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:26:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:26:31 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 162
+[23-Aug-2016 17:26:31 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 162
+[23-Aug-2016 17:34:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:34:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:34:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[23-Aug-2016 17:34:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:34:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:34:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:35:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:35:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:35:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:35:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[23-Aug-2016 17:35:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:35:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[23-Aug-2016 17:35:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:35:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:35:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:35:52 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 162
+[23-Aug-2016 17:35:52 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 162
+[23-Aug-2016 17:35:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:35:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:35:53 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 162
+[23-Aug-2016 17:35:53 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 162
+[23-Aug-2016 17:36:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:36:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:36:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[23-Aug-2016 17:36:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[23-Aug-2016 17:36:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[23-Aug-2016 17:36:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[24-Aug-2016 01:42:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[24-Aug-2016 01:42:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[24-Aug-2016 01:42:09 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 162
+[24-Aug-2016 01:42:09 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 162
+[24-Aug-2016 01:42:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[24-Aug-2016 01:42:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[24-Aug-2016 01:42:27 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 162
+[24-Aug-2016 01:42:27 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 162
+[24-Aug-2016 01:42:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[24-Aug-2016 01:42:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[24-Aug-2016 01:42:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[24-Aug-2016 01:42:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[24-Aug-2016 01:42:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[24-Aug-2016 01:42:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[24-Aug-2016 01:42:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[24-Aug-2016 01:42:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[24-Aug-2016 01:42:40 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 162
+[24-Aug-2016 01:42:40 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 162
+[24-Aug-2016 01:43:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[24-Aug-2016 01:43:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[24-Aug-2016 01:43:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[24-Aug-2016 01:43:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[24-Aug-2016 01:43:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[24-Aug-2016 01:43:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[24-Aug-2016 01:43:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[24-Aug-2016 01:43:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[24-Aug-2016 01:43:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/borrar_cita.php on line 7
+[24-Aug-2016 01:43:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[24-Aug-2016 01:43:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[24-Aug-2016 14:12:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[24-Aug-2016 14:12:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[24-Aug-2016 15:56:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[24-Aug-2016 15:56:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[24-Aug-2016 15:56:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[24-Aug-2016 15:56:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[24-Aug-2016 15:57:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[24-Aug-2016 15:57:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[24-Aug-2016 19:17:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[24-Aug-2016 19:17:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[24-Aug-2016 19:17:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[24-Aug-2016 19:17:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[24-Aug-2016 19:17:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[25-Aug-2016 05:03:52 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/editar_cita.php on line 63
+[25-Aug-2016 05:03:52 UTC] PHP Notice:  Undefined index: cita in /home/asist2016/public_html/dash/editar_cita.php on line 66
+[25-Aug-2016 05:03:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[25-Aug-2016 05:03:52 UTC] PHP Notice:  Undefined index: cita in /home/asist2016/public_html/dash/editar_cita.php on line 72
+[25-Aug-2016 05:03:52 UTC] PHP Notice:  Undefined variable: id_cliente in /home/asist2016/public_html/dash/editar_cita.php on line 96
+[25-Aug-2016 05:03:52 UTC] PHP Notice:  Undefined variable: nombre_cliente in /home/asist2016/public_html/dash/editar_cita.php on line 96
+[25-Aug-2016 05:03:52 UTC] PHP Notice:  Undefined variable: id_enfermera in /home/asist2016/public_html/dash/editar_cita.php on line 109
+[25-Aug-2016 05:03:52 UTC] PHP Notice:  Undefined variable: nombre_enfermera in /home/asist2016/public_html/dash/editar_cita.php on line 109
+[25-Aug-2016 05:03:52 UTC] PHP Notice:  Undefined variable: fecha in /home/asist2016/public_html/dash/editar_cita.php on line 122
+[25-Aug-2016 05:03:52 UTC] PHP Notice:  Undefined variable: hora in /home/asist2016/public_html/dash/editar_cita.php on line 132
+[25-Aug-2016 05:03:52 UTC] PHP Notice:  Undefined variable: hora_final in /home/asist2016/public_html/dash/editar_cita.php on line 143
+[25-Aug-2016 17:03:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[25-Aug-2016 17:03:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[25-Aug-2016 17:03:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[25-Aug-2016 17:03:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[25-Aug-2016 17:03:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[25-Aug-2016 17:03:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[25-Aug-2016 17:03:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[25-Aug-2016 17:03:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[25-Aug-2016 17:03:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[25-Aug-2016 17:03:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 15:57:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 15:57:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 16:00:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 16:00:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 16:06:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 16:06:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 16:06:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 16:06:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 16:06:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 16:06:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 16:24:39 UTC] PHP Notice:  Undefined index: id in /home/asist2016/public_html/dash/ver_enfermera.php on line 65
+[26-Aug-2016 16:24:39 UTC] PHP Notice:  Undefined variable: conexion in /home/asist2016/public_html/dash/ver_enfermera.php on line 68
+[26-Aug-2016 16:24:39 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/asist2016/public_html/dash/ver_enfermera.php on line 68
+[26-Aug-2016 16:24:39 UTC] PHP Notice:  Undefined variable: resultado_consulta_mysql in /home/asist2016/public_html/dash/ver_enfermera.php on line 70
+[26-Aug-2016 16:24:39 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/ver_enfermera.php on line 70
+[26-Aug-2016 16:24:42 UTC] PHP Notice:  Undefined index: id in /home/asist2016/public_html/dash/ver_enfermera.php on line 65
+[26-Aug-2016 16:24:42 UTC] PHP Notice:  Undefined variable: conexion in /home/asist2016/public_html/dash/ver_enfermera.php on line 68
+[26-Aug-2016 16:24:42 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/asist2016/public_html/dash/ver_enfermera.php on line 68
+[26-Aug-2016 16:24:42 UTC] PHP Notice:  Undefined variable: resultado_consulta_mysql in /home/asist2016/public_html/dash/ver_enfermera.php on line 70
+[26-Aug-2016 16:24:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/ver_enfermera.php on line 70
+[26-Aug-2016 16:26:05 UTC] PHP Notice:  Undefined variable: conexion in /home/asist2016/public_html/dash/ver_enfermera.php on line 68
+[26-Aug-2016 16:26:05 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/asist2016/public_html/dash/ver_enfermera.php on line 68
+[26-Aug-2016 16:26:05 UTC] PHP Notice:  Undefined variable: resultado_consulta_mysql in /home/asist2016/public_html/dash/ver_enfermera.php on line 70
+[26-Aug-2016 16:26:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/ver_enfermera.php on line 70
+[26-Aug-2016 16:26:07 UTC] PHP Notice:  Undefined variable: conexion in /home/asist2016/public_html/dash/ver_enfermera.php on line 68
+[26-Aug-2016 16:26:07 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/asist2016/public_html/dash/ver_enfermera.php on line 68
+[26-Aug-2016 16:26:07 UTC] PHP Notice:  Undefined variable: resultado_consulta_mysql in /home/asist2016/public_html/dash/ver_enfermera.php on line 70
+[26-Aug-2016 16:26:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/ver_enfermera.php on line 70
+[26-Aug-2016 16:26:32 UTC] PHP Notice:  Undefined variable: conexion in /home/asist2016/public_html/dash/ver_enfermera.php on line 68
+[26-Aug-2016 16:26:32 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/asist2016/public_html/dash/ver_enfermera.php on line 68
+[26-Aug-2016 16:26:32 UTC] PHP Notice:  Undefined variable: resultado_consulta_mysql in /home/asist2016/public_html/dash/ver_enfermera.php on line 70
+[26-Aug-2016 16:26:32 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/ver_enfermera.php on line 70
+[26-Aug-2016 16:27:33 UTC] PHP Notice:  Undefined variable: conexion in /home/asist2016/public_html/dash/ver_enfermera.php on line 69
+[26-Aug-2016 16:27:33 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/asist2016/public_html/dash/ver_enfermera.php on line 69
+[26-Aug-2016 16:27:33 UTC] PHP Notice:  Undefined variable: resultado_consulta_mysql in /home/asist2016/public_html/dash/ver_enfermera.php on line 71
+[26-Aug-2016 16:27:33 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/ver_enfermera.php on line 71
+[26-Aug-2016 16:28:03 UTC] PHP Notice:  Undefined variable: query in /home/asist2016/public_html/dash/ver_enfermera.php on line 68
+[26-Aug-2016 16:28:03 UTC] PHP Notice:  Undefined variable: conexion in /home/asist2016/public_html/dash/ver_enfermera.php on line 68
+[26-Aug-2016 16:28:03 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/asist2016/public_html/dash/ver_enfermera.php on line 68
+[26-Aug-2016 16:28:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/ver_enfermera.php on line 70
+[26-Aug-2016 16:28:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 16:28:41 UTC] PHP Notice:  Undefined variable: query in /home/asist2016/public_html/dash/ver_enfermera.php on line 71
+[26-Aug-2016 16:28:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/asist2016/public_html/dash/ver_enfermera.php on line 73
+[26-Aug-2016 16:28:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 16:28:44 UTC] PHP Notice:  Undefined variable: query in /home/asist2016/public_html/dash/ver_enfermera.php on line 71
+[26-Aug-2016 16:28:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/asist2016/public_html/dash/ver_enfermera.php on line 73
+[26-Aug-2016 16:29:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 16:38:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 16:38:31 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/ver_enfermera.php on line 77
+[26-Aug-2016 16:39:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 16:39:22 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/ver_enfermera.php on line 77
+[26-Aug-2016 16:41:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 16:41:23 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/ver_enfermera.php on line 77
+[26-Aug-2016 16:41:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 16:41:46 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/ver_enfermera.php on line 77
+[26-Aug-2016 16:42:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 16:54:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 16:54:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 17:01:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 17:01:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 17:01:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 17:01:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 17:01:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 17:01:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 17:01:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 17:01:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 17:02:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 17:02:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 17:03:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 17:03:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 17:03:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 17:03:40 UTC] PHP Notice:  Undefined variable: cliente in /home/asist2016/public_html/dash/ver_cliente.php on line 71
+[26-Aug-2016 17:03:40 UTC] PHP Notice:  Undefined variable: query_e in /home/asist2016/public_html/dash/ver_cliente.php on line 72
+[26-Aug-2016 17:03:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/asist2016/public_html/dash/ver_cliente.php on line 74
+[26-Aug-2016 17:04:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 17:04:13 UTC] PHP Notice:  Undefined variable: cliente in /home/asist2016/public_html/dash/ver_cliente.php on line 71
+[26-Aug-2016 17:04:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 17:04:15 UTC] PHP Notice:  Undefined variable: cliente in /home/asist2016/public_html/dash/ver_cliente.php on line 71
+[26-Aug-2016 17:04:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 17:04:16 UTC] PHP Notice:  Undefined variable: cliente in /home/asist2016/public_html/dash/ver_cliente.php on line 71
+[26-Aug-2016 17:04:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 17:04:32 UTC] PHP Notice:  Undefined variable: cliente in /home/asist2016/public_html/dash/ver_cliente.php on line 71
+[26-Aug-2016 17:04:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 17:04:33 UTC] PHP Notice:  Undefined variable: cliente in /home/asist2016/public_html/dash/ver_cliente.php on line 71
+[26-Aug-2016 17:04:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 17:04:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 17:04:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 17:15:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/borrar_cita.php on line 7
+[26-Aug-2016 17:15:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 17:15:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 17:19:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 17:19:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 17:19:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 17:19:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 17:21:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 17:21:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 17:53:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[26-Aug-2016 17:53:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:04:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 18:04:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:04:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nuevo_cliente.php on line 2
+[26-Aug-2016 18:04:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:05:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 18:05:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:19:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 18:19:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:19:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[26-Aug-2016 18:19:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:19:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:19:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:19:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:19:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[26-Aug-2016 18:19:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:19:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 18:19:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:19:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:19:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 18:19:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:19:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:20:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:20:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:20:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 18:20:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:20:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:57:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 18:57:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:57:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:58:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 18:58:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:58:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 18:58:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:58:15 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 162
+[26-Aug-2016 18:58:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[26-Aug-2016 18:58:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:58:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 18:58:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:58:27 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 162
+[26-Aug-2016 18:58:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:58:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 18:58:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 18:58:31 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 162
+[26-Aug-2016 19:06:33 UTC] PHP Notice:  Undefined variable: conexion in /home/asist2016/public_html/dash/index.php on line 55
+[26-Aug-2016 19:06:33 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/asist2016/public_html/dash/index.php on line 55
+[26-Aug-2016 19:06:33 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/index.php on line 57
+[26-Aug-2016 19:06:33 UTC] PHP Notice:  Undefined variable: conexion in /home/asist2016/public_html/dash/index.php on line 147
+[26-Aug-2016 19:06:33 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/asist2016/public_html/dash/index.php on line 147
+[26-Aug-2016 19:06:33 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/index.php on line 148
+[26-Aug-2016 19:06:33 UTC] PHP Notice:  Undefined variable: conexion in /home/asist2016/public_html/dash/index.php on line 154
+[26-Aug-2016 19:06:33 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/asist2016/public_html/dash/index.php on line 154
+[26-Aug-2016 19:06:33 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/index.php on line 155
+[26-Aug-2016 19:06:33 UTC] PHP Notice:  Undefined variable: conexion in /home/asist2016/public_html/dash/index.php on line 179
+[26-Aug-2016 19:06:33 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/asist2016/public_html/dash/index.php on line 179
+[26-Aug-2016 19:08:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 19:08:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 19:08:32 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 166
+[26-Aug-2016 19:09:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 19:09:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 19:09:40 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 190
+[26-Aug-2016 19:09:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 19:09:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 19:11:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 19:11:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 19:11:31 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 190
+[26-Aug-2016 19:11:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 19:11:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 19:11:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 19:11:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 19:11:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 19:12:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 19:12:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 19:12:19 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 190
+[26-Aug-2016 19:12:19 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 190
+[26-Aug-2016 19:13:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 19:13:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 19:13:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[26-Aug-2016 19:13:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 19:13:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 19:14:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_enfermera.php on line 2
+[26-Aug-2016 19:14:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 19:14:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 19:14:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 19:14:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 19:14:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 19:14:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 19:14:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 19:14:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 19:14:57 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 190
+[26-Aug-2016 19:14:57 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 190
+[26-Aug-2016 19:15:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 19:15:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 19:15:08 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 190
+[26-Aug-2016 19:15:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 19:15:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 19:15:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/borrar_cita.php on line 7
+[26-Aug-2016 19:15:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 19:15:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[26-Aug-2016 19:16:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[26-Aug-2016 19:16:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[27-Aug-2016 18:21:06 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/actualizar_cita.php on line 4
+[27-Aug-2016 18:21:06 UTC] PHP Notice:  Undefined index: cita in /home/asist2016/public_html/dash/actualizar_cita.php on line 5
+[27-Aug-2016 18:21:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[27-Aug-2016 18:21:06 UTC] PHP Notice:  Undefined index: cliente in /home/asist2016/public_html/dash/actualizar_cita.php on line 11
+[27-Aug-2016 18:21:06 UTC] PHP Notice:  Undefined index: enfermera in /home/asist2016/public_html/dash/actualizar_cita.php on line 12
+[27-Aug-2016 18:21:06 UTC] PHP Notice:  Undefined index: fecha in /home/asist2016/public_html/dash/actualizar_cita.php on line 13
+[27-Aug-2016 18:21:06 UTC] PHP Notice:  Undefined index: hora in /home/asist2016/public_html/dash/actualizar_cita.php on line 14
+[27-Aug-2016 18:21:06 UTC] PHP Notice:  Undefined index: hora_final in /home/asist2016/public_html/dash/actualizar_cita.php on line 15
+[27-Aug-2016 19:09:40 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/crear_cita.php on line 3
+[27-Aug-2016 19:09:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[27-Aug-2016 19:09:40 UTC] PHP Notice:  Undefined index: cliente in /home/asist2016/public_html/dash/crear_cita.php on line 8
+[27-Aug-2016 19:09:40 UTC] PHP Notice:  Undefined index: enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 9
+[27-Aug-2016 19:09:40 UTC] PHP Notice:  Undefined index: fecha in /home/asist2016/public_html/dash/crear_cita.php on line 10
+[27-Aug-2016 19:09:40 UTC] PHP Notice:  Undefined index: hora in /home/asist2016/public_html/dash/crear_cita.php on line 11
+[27-Aug-2016 19:09:40 UTC] PHP Notice:  Undefined index: hora_final in /home/asist2016/public_html/dash/crear_cita.php on line 12
+[27-Aug-2016 19:09:40 UTC] PHP Notice:  Undefined variable: email_enf in /home/asist2016/public_html/dash/crear_cita.php on line 52
+[31-Aug-2016 00:48:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[31-Aug-2016 00:48:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[03-Sep-2016 07:49:40 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/editar_enfermera.php on line 30
+[03-Sep-2016 07:49:40 UTC] PHP Notice:  Undefined index: id in /home/asist2016/public_html/dash/editar_enfermera.php on line 33
+[03-Sep-2016 07:49:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[03-Sep-2016 07:49:40 UTC] PHP Notice:  Undefined index: id in /home/asist2016/public_html/dash/editar_enfermera.php on line 39
+[03-Sep-2016 07:49:40 UTC] PHP Notice:  Undefined variable: nombre_enfermera in /home/asist2016/public_html/dash/editar_enfermera.php on line 59
+[03-Sep-2016 07:49:40 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/editar_enfermera.php on line 64
+[03-Sep-2016 10:37:42 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/borrar_cita.php on line 4
+[03-Sep-2016 10:37:42 UTC] PHP Notice:  Undefined index: cita in /home/asist2016/public_html/dash/borrar_cita.php on line 5
+[03-Sep-2016 10:37:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/borrar_cita.php on line 7
+[03-Sep-2016 11:02:38 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/crear_enfermera.php on line 3
+[03-Sep-2016 11:02:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[03-Sep-2016 11:02:38 UTC] PHP Notice:  Undefined index: nombre in /home/asist2016/public_html/dash/crear_enfermera.php on line 8
+[03-Sep-2016 11:02:38 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/crear_enfermera.php on line 9
+[03-Sep-2016 11:02:38 UTC] PHP Notice:  Undefined index: pass in /home/asist2016/public_html/dash/crear_enfermera.php on line 10
+[06-Sep-2016 00:05:49 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/actualizar_enfermera.php on line 4
+[06-Sep-2016 00:05:49 UTC] PHP Notice:  Undefined index: enfermera_id in /home/asist2016/public_html/dash/actualizar_enfermera.php on line 5
+[06-Sep-2016 00:05:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[06-Sep-2016 00:05:49 UTC] PHP Notice:  Undefined index: nombre_enfermera in /home/asist2016/public_html/dash/actualizar_enfermera.php on line 10
+[06-Sep-2016 00:05:49 UTC] PHP Notice:  Undefined index: email_enfermera in /home/asist2016/public_html/dash/actualizar_enfermera.php on line 11
+[15-Sep-2016 23:15:19 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/editar_cliente.php on line 30
+[15-Sep-2016 23:15:19 UTC] PHP Notice:  Undefined index: id in /home/asist2016/public_html/dash/editar_cliente.php on line 33
+[15-Sep-2016 23:15:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[15-Sep-2016 23:15:19 UTC] PHP Notice:  Undefined index: id in /home/asist2016/public_html/dash/editar_cliente.php on line 39
+[15-Sep-2016 23:15:19 UTC] PHP Notice:  Undefined variable: nombre_cliente in /home/asist2016/public_html/dash/editar_cliente.php on line 59
+[15-Sep-2016 23:15:19 UTC] PHP Notice:  Undefined variable: email_cliente in /home/asist2016/public_html/dash/editar_cliente.php on line 64
+[16-Sep-2016 00:02:31 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/crear_cliente.php on line 3
+[16-Sep-2016 00:02:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[16-Sep-2016 00:02:31 UTC] PHP Notice:  Undefined index: nombre in /home/asist2016/public_html/dash/crear_cliente.php on line 8
+[16-Sep-2016 00:02:31 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/crear_cliente.php on line 9
+[16-Sep-2016 00:02:31 UTC] PHP Notice:  Undefined index: telefono in /home/asist2016/public_html/dash/crear_cliente.php on line 10
+[16-Sep-2016 00:50:03 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/actualizar_cita.php on line 4
+[16-Sep-2016 00:50:03 UTC] PHP Notice:  Undefined index: cita in /home/asist2016/public_html/dash/actualizar_cita.php on line 5
+[16-Sep-2016 00:50:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[16-Sep-2016 00:50:03 UTC] PHP Notice:  Undefined index: cliente in /home/asist2016/public_html/dash/actualizar_cita.php on line 11
+[16-Sep-2016 00:50:03 UTC] PHP Notice:  Undefined index: enfermera in /home/asist2016/public_html/dash/actualizar_cita.php on line 12
+[16-Sep-2016 00:50:03 UTC] PHP Notice:  Undefined index: fecha in /home/asist2016/public_html/dash/actualizar_cita.php on line 13
+[16-Sep-2016 00:50:03 UTC] PHP Notice:  Undefined index: hora in /home/asist2016/public_html/dash/actualizar_cita.php on line 14
+[16-Sep-2016 00:50:03 UTC] PHP Notice:  Undefined index: hora_final in /home/asist2016/public_html/dash/actualizar_cita.php on line 15
+[16-Sep-2016 01:21:23 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/actualizar_cliente.php on line 4
+[16-Sep-2016 01:21:23 UTC] PHP Notice:  Undefined index: cliente_id in /home/asist2016/public_html/dash/actualizar_cliente.php on line 5
+[16-Sep-2016 01:21:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[16-Sep-2016 01:21:23 UTC] PHP Notice:  Undefined index: nombre_cliente in /home/asist2016/public_html/dash/actualizar_cliente.php on line 10
+[16-Sep-2016 01:21:23 UTC] PHP Notice:  Undefined index: email_cliente in /home/asist2016/public_html/dash/actualizar_cliente.php on line 11
+[16-Sep-2016 01:40:08 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/borrar_cliente.php on line 4
+[16-Sep-2016 01:40:08 UTC] PHP Notice:  Undefined index: id in /home/asist2016/public_html/dash/borrar_cliente.php on line 5
+[16-Sep-2016 01:40:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/borrar_cliente.php on line 7
+[16-Sep-2016 03:53:06 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/editar_cita.php on line 63
+[16-Sep-2016 03:53:06 UTC] PHP Notice:  Undefined index: cita in /home/asist2016/public_html/dash/editar_cita.php on line 66
+[16-Sep-2016 03:53:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[16-Sep-2016 03:53:06 UTC] PHP Notice:  Undefined index: cita in /home/asist2016/public_html/dash/editar_cita.php on line 72
+[16-Sep-2016 03:53:06 UTC] PHP Notice:  Undefined variable: id_cliente in /home/asist2016/public_html/dash/editar_cita.php on line 96
+[16-Sep-2016 03:53:06 UTC] PHP Notice:  Undefined variable: nombre_cliente in /home/asist2016/public_html/dash/editar_cita.php on line 96
+[16-Sep-2016 03:53:06 UTC] PHP Notice:  Undefined variable: id_enfermera in /home/asist2016/public_html/dash/editar_cita.php on line 109
+[16-Sep-2016 03:53:06 UTC] PHP Notice:  Undefined variable: nombre_enfermera in /home/asist2016/public_html/dash/editar_cita.php on line 109
+[16-Sep-2016 03:53:06 UTC] PHP Notice:  Undefined variable: fecha in /home/asist2016/public_html/dash/editar_cita.php on line 122
+[16-Sep-2016 03:53:06 UTC] PHP Notice:  Undefined variable: hora in /home/asist2016/public_html/dash/editar_cita.php on line 132
+[16-Sep-2016 03:53:06 UTC] PHP Notice:  Undefined variable: hora_final in /home/asist2016/public_html/dash/editar_cita.php on line 143
+[16-Sep-2016 05:14:50 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/crear_cita.php on line 3
+[16-Sep-2016 05:14:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[16-Sep-2016 05:14:50 UTC] PHP Notice:  Undefined index: cliente in /home/asist2016/public_html/dash/crear_cita.php on line 8
+[16-Sep-2016 05:14:50 UTC] PHP Notice:  Undefined index: enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 9
+[16-Sep-2016 05:14:50 UTC] PHP Notice:  Undefined index: fecha in /home/asist2016/public_html/dash/crear_cita.php on line 10
+[16-Sep-2016 05:14:50 UTC] PHP Notice:  Undefined index: hora in /home/asist2016/public_html/dash/crear_cita.php on line 11
+[16-Sep-2016 05:14:50 UTC] PHP Notice:  Undefined index: hora_final in /home/asist2016/public_html/dash/crear_cita.php on line 12
+[16-Sep-2016 05:14:50 UTC] PHP Notice:  Undefined variable: email_enf in /home/asist2016/public_html/dash/crear_cita.php on line 52
+[16-Sep-2016 05:55:15 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/borrar_enfermera.php on line 4
+[16-Sep-2016 05:55:15 UTC] PHP Notice:  Undefined index: id in /home/asist2016/public_html/dash/borrar_enfermera.php on line 5
+[16-Sep-2016 05:55:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/borrar_enfermera.php on line 7
+[17-Sep-2016 13:49:05 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/borrar_enfermera.php on line 4
+[17-Sep-2016 13:49:05 UTC] PHP Notice:  Undefined index: id in /home/asist2016/public_html/dash/borrar_enfermera.php on line 5
+[17-Sep-2016 13:49:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/borrar_enfermera.php on line 7
+[17-Sep-2016 17:35:18 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/crear_cita.php on line 3
+[17-Sep-2016 17:35:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[17-Sep-2016 17:35:18 UTC] PHP Notice:  Undefined index: cliente in /home/asist2016/public_html/dash/crear_cita.php on line 8
+[17-Sep-2016 17:35:18 UTC] PHP Notice:  Undefined index: enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 9
+[17-Sep-2016 17:35:18 UTC] PHP Notice:  Undefined index: fecha in /home/asist2016/public_html/dash/crear_cita.php on line 10
+[17-Sep-2016 17:35:18 UTC] PHP Notice:  Undefined index: hora in /home/asist2016/public_html/dash/crear_cita.php on line 11
+[17-Sep-2016 17:35:18 UTC] PHP Notice:  Undefined index: hora_final in /home/asist2016/public_html/dash/crear_cita.php on line 12
+[17-Sep-2016 17:35:18 UTC] PHP Notice:  Undefined variable: email_enf in /home/asist2016/public_html/dash/crear_cita.php on line 52
+[01-Oct-2016 18:02:03 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/editar_enfermera.php on line 30
+[01-Oct-2016 18:02:03 UTC] PHP Notice:  Undefined index: id in /home/asist2016/public_html/dash/editar_enfermera.php on line 33
+[01-Oct-2016 18:02:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[01-Oct-2016 18:02:04 UTC] PHP Notice:  Undefined index: id in /home/asist2016/public_html/dash/editar_enfermera.php on line 39
+[01-Oct-2016 18:02:04 UTC] PHP Notice:  Undefined variable: nombre_enfermera in /home/asist2016/public_html/dash/editar_enfermera.php on line 59
+[01-Oct-2016 18:02:04 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/editar_enfermera.php on line 64
+[03-Oct-2016 10:29:37 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/crear_enfermera.php on line 3
+[03-Oct-2016 10:29:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[03-Oct-2016 10:29:37 UTC] PHP Notice:  Undefined index: nombre in /home/asist2016/public_html/dash/crear_enfermera.php on line 8
+[03-Oct-2016 10:29:37 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/crear_enfermera.php on line 9
+[03-Oct-2016 10:29:37 UTC] PHP Notice:  Undefined index: pass in /home/asist2016/public_html/dash/crear_enfermera.php on line 10
+[04-Oct-2016 23:51:13 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/borrar_cita.php on line 4
+[04-Oct-2016 23:51:13 UTC] PHP Notice:  Undefined index: cita in /home/asist2016/public_html/dash/borrar_cita.php on line 5
+[04-Oct-2016 23:51:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/borrar_cita.php on line 7
+[07-Oct-2016 12:24:19 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/actualizar_enfermera.php on line 4
+[07-Oct-2016 12:24:19 UTC] PHP Notice:  Undefined index: enfermera_id in /home/asist2016/public_html/dash/actualizar_enfermera.php on line 5
+[07-Oct-2016 12:24:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[07-Oct-2016 12:24:20 UTC] PHP Notice:  Undefined index: nombre_enfermera in /home/asist2016/public_html/dash/actualizar_enfermera.php on line 10
+[07-Oct-2016 12:24:20 UTC] PHP Notice:  Undefined index: email_enfermera in /home/asist2016/public_html/dash/actualizar_enfermera.php on line 11
+[10-Oct-2016 16:02:21 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/editar_cita.php on line 63
+[10-Oct-2016 16:02:21 UTC] PHP Notice:  Undefined index: cita in /home/asist2016/public_html/dash/editar_cita.php on line 66
+[10-Oct-2016 16:02:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[10-Oct-2016 16:02:21 UTC] PHP Notice:  Undefined index: cita in /home/asist2016/public_html/dash/editar_cita.php on line 72
+[10-Oct-2016 16:02:21 UTC] PHP Notice:  Undefined variable: id_cliente in /home/asist2016/public_html/dash/editar_cita.php on line 96
+[10-Oct-2016 16:02:21 UTC] PHP Notice:  Undefined variable: nombre_cliente in /home/asist2016/public_html/dash/editar_cita.php on line 96
+[10-Oct-2016 16:02:21 UTC] PHP Notice:  Undefined variable: id_enfermera in /home/asist2016/public_html/dash/editar_cita.php on line 109
+[10-Oct-2016 16:02:21 UTC] PHP Notice:  Undefined variable: nombre_enfermera in /home/asist2016/public_html/dash/editar_cita.php on line 109
+[10-Oct-2016 16:02:21 UTC] PHP Notice:  Undefined variable: fecha in /home/asist2016/public_html/dash/editar_cita.php on line 122
+[10-Oct-2016 16:02:21 UTC] PHP Notice:  Undefined variable: hora in /home/asist2016/public_html/dash/editar_cita.php on line 132
+[10-Oct-2016 16:02:21 UTC] PHP Notice:  Undefined variable: hora_final in /home/asist2016/public_html/dash/editar_cita.php on line 143
+[16-Oct-2016 11:59:34 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/actualizar_cita.php on line 4
+[16-Oct-2016 11:59:34 UTC] PHP Notice:  Undefined index: cita in /home/asist2016/public_html/dash/actualizar_cita.php on line 5
+[16-Oct-2016 11:59:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[16-Oct-2016 11:59:35 UTC] PHP Notice:  Undefined index: cliente in /home/asist2016/public_html/dash/actualizar_cita.php on line 11
+[16-Oct-2016 11:59:35 UTC] PHP Notice:  Undefined index: enfermera in /home/asist2016/public_html/dash/actualizar_cita.php on line 12
+[16-Oct-2016 11:59:35 UTC] PHP Notice:  Undefined index: fecha in /home/asist2016/public_html/dash/actualizar_cita.php on line 13
+[16-Oct-2016 11:59:35 UTC] PHP Notice:  Undefined index: hora in /home/asist2016/public_html/dash/actualizar_cita.php on line 14
+[16-Oct-2016 11:59:35 UTC] PHP Notice:  Undefined index: hora_final in /home/asist2016/public_html/dash/actualizar_cita.php on line 15
+[16-Oct-2016 15:44:42 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/crear_cita.php on line 3
+[16-Oct-2016 15:44:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[16-Oct-2016 15:44:42 UTC] PHP Notice:  Undefined index: cliente in /home/asist2016/public_html/dash/crear_cita.php on line 8
+[16-Oct-2016 15:44:42 UTC] PHP Notice:  Undefined index: enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 9
+[16-Oct-2016 15:44:42 UTC] PHP Notice:  Undefined index: fecha in /home/asist2016/public_html/dash/crear_cita.php on line 10
+[16-Oct-2016 15:44:42 UTC] PHP Notice:  Undefined index: hora in /home/asist2016/public_html/dash/crear_cita.php on line 11
+[16-Oct-2016 15:44:42 UTC] PHP Notice:  Undefined index: hora_final in /home/asist2016/public_html/dash/crear_cita.php on line 12
+[16-Oct-2016 15:44:43 UTC] PHP Notice:  Undefined variable: email_enf in /home/asist2016/public_html/dash/crear_cita.php on line 52
+[17-Oct-2016 23:37:41 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/borrar_cliente.php on line 4
+[17-Oct-2016 23:37:41 UTC] PHP Notice:  Undefined index: id in /home/asist2016/public_html/dash/borrar_cliente.php on line 5
+[17-Oct-2016 23:37:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/borrar_cliente.php on line 7
+[18-Oct-2016 00:15:41 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/actualizar_cliente.php on line 4
+[18-Oct-2016 00:15:41 UTC] PHP Notice:  Undefined index: cliente_id in /home/asist2016/public_html/dash/actualizar_cliente.php on line 5
+[18-Oct-2016 00:15:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[18-Oct-2016 00:15:41 UTC] PHP Notice:  Undefined index: nombre_cliente in /home/asist2016/public_html/dash/actualizar_cliente.php on line 10
+[18-Oct-2016 00:15:41 UTC] PHP Notice:  Undefined index: email_cliente in /home/asist2016/public_html/dash/actualizar_cliente.php on line 11
+[18-Oct-2016 00:26:48 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/crear_cita.php on line 3
+[18-Oct-2016 00:26:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[18-Oct-2016 00:26:48 UTC] PHP Notice:  Undefined index: cliente in /home/asist2016/public_html/dash/crear_cita.php on line 8
+[18-Oct-2016 00:26:48 UTC] PHP Notice:  Undefined index: enfermera in /home/asist2016/public_html/dash/crear_cita.php on line 9
+[18-Oct-2016 00:26:48 UTC] PHP Notice:  Undefined index: fecha in /home/asist2016/public_html/dash/crear_cita.php on line 10
+[18-Oct-2016 00:26:48 UTC] PHP Notice:  Undefined index: hora in /home/asist2016/public_html/dash/crear_cita.php on line 11
+[18-Oct-2016 00:26:48 UTC] PHP Notice:  Undefined index: hora_final in /home/asist2016/public_html/dash/crear_cita.php on line 12
+[18-Oct-2016 00:26:48 UTC] PHP Notice:  Undefined variable: email_enf in /home/asist2016/public_html/dash/crear_cita.php on line 52
+[18-Oct-2016 01:02:28 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/crear_cliente.php on line 3
+[18-Oct-2016 01:02:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[18-Oct-2016 01:02:28 UTC] PHP Notice:  Undefined index: nombre in /home/asist2016/public_html/dash/crear_cliente.php on line 8
+[18-Oct-2016 01:02:28 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/crear_cliente.php on line 9
+[18-Oct-2016 01:02:28 UTC] PHP Notice:  Undefined index: telefono in /home/asist2016/public_html/dash/crear_cliente.php on line 10
+[18-Oct-2016 01:46:34 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/editar_cliente.php on line 30
+[18-Oct-2016 01:46:34 UTC] PHP Notice:  Undefined index: id in /home/asist2016/public_html/dash/editar_cliente.php on line 33
+[18-Oct-2016 01:46:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[18-Oct-2016 01:46:34 UTC] PHP Notice:  Undefined index: id in /home/asist2016/public_html/dash/editar_cliente.php on line 39
+[18-Oct-2016 01:46:34 UTC] PHP Notice:  Undefined variable: nombre_cliente in /home/asist2016/public_html/dash/editar_cliente.php on line 59
+[18-Oct-2016 01:46:34 UTC] PHP Notice:  Undefined variable: email_cliente in /home/asist2016/public_html/dash/editar_cliente.php on line 64
+[19-Oct-2016 16:16:19 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/borrar_enfermera.php on line 4
+[19-Oct-2016 16:16:19 UTC] PHP Notice:  Undefined index: id in /home/asist2016/public_html/dash/borrar_enfermera.php on line 5
+[19-Oct-2016 16:16:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/borrar_enfermera.php on line 7
+[02-Nov-2016 15:39:36 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/editar_enfermera.php on line 30
+[02-Nov-2016 15:39:36 UTC] PHP Notice:  Undefined index: id in /home/asist2016/public_html/dash/editar_enfermera.php on line 33
+[02-Nov-2016 15:39:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[02-Nov-2016 15:39:36 UTC] PHP Notice:  Undefined index: id in /home/asist2016/public_html/dash/editar_enfermera.php on line 39
+[02-Nov-2016 15:39:36 UTC] PHP Notice:  Undefined variable: nombre_enfermera in /home/asist2016/public_html/dash/editar_enfermera.php on line 59
+[02-Nov-2016 15:39:36 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/editar_enfermera.php on line 64
+[04-Nov-2016 11:08:54 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/crear_enfermera.php on line 3
+[04-Nov-2016 11:08:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[04-Nov-2016 11:08:54 UTC] PHP Notice:  Undefined index: nombre in /home/asist2016/public_html/dash/crear_enfermera.php on line 8
+[04-Nov-2016 11:08:54 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/crear_enfermera.php on line 9
+[04-Nov-2016 11:08:54 UTC] PHP Notice:  Undefined index: pass in /home/asist2016/public_html/dash/crear_enfermera.php on line 10
+[04-Nov-2016 11:12:16 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/editar_enfermera.php on line 30
+[04-Nov-2016 11:12:16 UTC] PHP Notice:  Undefined index: id in /home/asist2016/public_html/dash/editar_enfermera.php on line 33
+[04-Nov-2016 11:12:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[04-Nov-2016 11:12:16 UTC] PHP Notice:  Undefined index: id in /home/asist2016/public_html/dash/editar_enfermera.php on line 39
+[04-Nov-2016 11:12:16 UTC] PHP Notice:  Undefined variable: nombre_enfermera in /home/asist2016/public_html/dash/editar_enfermera.php on line 59
+[04-Nov-2016 11:12:16 UTC] PHP Notice:  Undefined variable: email_enfermera in /home/asist2016/public_html/dash/editar_enfermera.php on line 64
+[06-Nov-2016 11:32:12 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/borrar_cita.php on line 4
+[06-Nov-2016 11:32:12 UTC] PHP Notice:  Undefined index: cita in /home/asist2016/public_html/dash/borrar_cita.php on line 5
+[06-Nov-2016 11:32:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/borrar_cita.php on line 7
+[12-Nov-2016 04:33:01 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/actualizar_enfermera.php on line 4
+[12-Nov-2016 04:33:01 UTC] PHP Notice:  Undefined index: enfermera_id in /home/asist2016/public_html/dash/actualizar_enfermera.php on line 5
+[12-Nov-2016 04:33:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[12-Nov-2016 04:33:02 UTC] PHP Notice:  Undefined index: nombre_enfermera in /home/asist2016/public_html/dash/actualizar_enfermera.php on line 10
+[12-Nov-2016 04:33:02 UTC] PHP Notice:  Undefined index: email_enfermera in /home/asist2016/public_html/dash/actualizar_enfermera.php on line 11
+[12-Nov-2016 06:19:44 UTC] PHP Notice:  Undefined index: email in /home/asist2016/public_html/dash/editar_cita.php on line 63
+[12-Nov-2016 06:19:44 UTC] PHP Notice:  Undefined index: cita in /home/asist2016/public_html/dash/editar_cita.php on line 66
+[12-Nov-2016 06:19:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[12-Nov-2016 06:19:44 UTC] PHP Notice:  Undefined index: cita in /home/asist2016/public_html/dash/editar_cita.php on line 72
+[12-Nov-2016 06:19:44 UTC] PHP Notice:  Undefined variable: id_cliente in /home/asist2016/public_html/dash/editar_cita.php on line 96
+[12-Nov-2016 06:19:44 UTC] PHP Notice:  Undefined variable: nombre_cliente in /home/asist2016/public_html/dash/editar_cita.php on line 96
+[12-Nov-2016 06:19:44 UTC] PHP Notice:  Undefined variable: id_enfermera in /home/asist2016/public_html/dash/editar_cita.php on line 109
+[12-Nov-2016 06:19:44 UTC] PHP Notice:  Undefined variable: nombre_enfermera in /home/asist2016/public_html/dash/editar_cita.php on line 109
+[12-Nov-2016 06:19:44 UTC] PHP Notice:  Undefined variable: fecha in /home/asist2016/public_html/dash/editar_cita.php on line 122
+[12-Nov-2016 06:19:44 UTC] PHP Notice:  Undefined variable: hora in /home/asist2016/public_html/dash/editar_cita.php on line 132
+[12-Nov-2016 06:19:44 UTC] PHP Notice:  Undefined variable: hora_final in /home/asist2016/public_html/dash/editar_cita.php on line 143
+[12-Dec-2016 04:22:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[12-Dec-2016 04:22:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[12-Dec-2016 04:22:50 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 190
+[12-Dec-2016 04:22:50 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 190
+[12-Dec-2016 04:22:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[12-Dec-2016 04:22:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/asist2016/public_html/dash/nueva_cita.php on line 2
+[12-Dec-2016 04:22:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/asist2016/public_html/dash/conexion.php on line 4
+[12-Dec-2016 04:22:56 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 190
+[12-Dec-2016 04:22:56 UTC] PHP Notice:  Undefined index: nombre_enf in /home/asist2016/public_html/dash/index.php on line 190
